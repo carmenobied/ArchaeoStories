@@ -2,7 +2,7 @@
 
 Bringing archaeology discoveries to life via multilingual digital storyteling. Stories from Unsung Heroes, Eco-Warriors & the Digital Age. Coming soon!
 
-Website: https://carmenobied.wixsite.com/archaeostories
+Website: http://tiny.cc/ArchaeoStories
 
 # Installation
 i. Fork the Github repository.
@@ -13,9 +13,8 @@ iv. Open and explore the website.
 # Usage
 Key Components Used:
 ````
-HTML - CSS - Bootstrap - JavaScript - jQuery
+HTML - CSS - JavaScript - jQuery
 ````
-Ocean Theme template built with Bootstrap.
 
 # Contributing 
 Pull requests are welcome. Please use the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md) and for major changes, please open an issue beforehand to discuss the changes.
