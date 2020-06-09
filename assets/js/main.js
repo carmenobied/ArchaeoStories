@@ -247,17 +247,17 @@ var settings = {
 	};
 
 	// Video JS 
-	$(".videoBtn").on("click", function () {
-		var	video = $(videoBg);
-		var	btn = $(videoBtn);
-	  if (video.paused) {
-		video.play();
-		btn.innerHTML = "Pause";
-	  } else {
-		video.pause();
-		btn.innerHTML = "Play";
-	  }
-	});
+	// $(".videoBtn").on("click", function () {
+	// 	var	video = $(videoBg);
+	// 	var	btn = $(videoBtn);
+	//   if (video.paused) {
+	// 	video.play();
+	// 	btn.innerHTML = "Pause";
+	//   } else {
+	// 	video.pause();
+	// 	btn.innerHTML = "Play";
+	//   }
+	// });
 
 	$(function() {
 
