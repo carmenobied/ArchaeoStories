@@ -34,3 +34,14 @@
 			font-size: 1em;
 			margin: 0;
 		}
+
+/* Video */
+
+#videoBg .major h2 {
+	font-size: 2em;
+}
+
+#videoBg .major .byline {
+	font-size: 1em;
+	margin: 0;
+}
