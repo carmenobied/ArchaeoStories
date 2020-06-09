@@ -1858,7 +1858,7 @@
 	} */
   
   /* Add some content at the bottom of the video/page */
-  .content {
+  /* .inner {
 	position: fixed;
 	bottom: 0;
 	background: rgba(0, 0, 0, 0.5);
@@ -1868,7 +1868,7 @@
   }
   
   /* Style the button used to pause/play the video */
-  #myBtn {
+  /* #videoBtn {
 	width: 200px;
 	font-size: 18px;
 	padding: 10px;
@@ -1878,10 +1878,10 @@
 	cursor: pointer;
   }
   
-  #myBtn:hover {
-	background: #ddd;
+  #videoBtn:hover {
+	background: #ddd;s
 	color: black;
-  }
+  } */ 
 
 /* Box */
 
