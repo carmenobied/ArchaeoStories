@@ -196,7 +196,7 @@ var settings = {
 						$slide
 							.css('background-image', 'url("' + $img.attr('src') + '")')
 							.css('background-position', ($slide.data('position') ? $slide.data('position') : 'center'));
-
+					
 					// Add to slides.
 						slides.push($slide);
 
@@ -245,6 +245,20 @@ var settings = {
 			}, options.delay);
 
 	};
+
+	// Video JS 
+	var video = document.querySelector("videoBg");
+	var btn = document.querySelector("videoBtn");
+	
+	$(".videoBtn").on("click", function () {
+	  if (video.paused) {
+		video.play();
+		btn.innerHTML = "Pause";
+	  } else {
+		video.pause();
+		btn.innerHTML = "Play";
+	  }
+	});
 
 	$(function() {
 
@@ -305,6 +319,8 @@ var settings = {
 			}
 
 	});
+
+
 
 })(jQuery);
 
