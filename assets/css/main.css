@@ -1847,7 +1847,14 @@
 			display: block;
 			width: 100%;
 		}
-		
+
+.video
+
+	.video.fit {
+			display: block;
+			width: 100%;
+		}
+
 /* Box */
 
 	.box {
