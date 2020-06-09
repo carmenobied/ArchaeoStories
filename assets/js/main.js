@@ -247,10 +247,9 @@ var settings = {
 	};
 
 	// Video JS 
-	var video = document.querySelector("videoBg");
-	var btn = document.querySelector("videoBtn");
-	
 	$(".videoBtn").on("click", function () {
+		var	video = $(videoBg);
+		var	btn = $(videoBtn);
 	  if (video.paused) {
 		video.play();
 		btn.innerHTML = "Pause";
