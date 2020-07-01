@@ -3,7 +3,7 @@
 
 Bringing archaeology discoveries to life via multilingual digital storyteling. Stories from Unsung Heroes, Eco-Warriors & the Digital Age. Coming soon!
 
-Website: http://tiny.cc/ArchaeoStories
+Website: [www.ArchaeoStories.com](http://www.archaeostories.com/)
 
 # Table of Contents
 
